@@ -1,0 +1,6 @@
+package Spices
+
+fun main() {
+    val curry = Curry("spicy")
+    println("Curry color: ${curry.color} (${curry.color.rgb})")
+}
